@@ -22,7 +22,7 @@ pod "CubicCollectionViewLayout"
 
 ## Author
 
-andrespch, andres@dubsmash.com
+andrespch, andres.portillos@gmail.com
 
 ## License
 
