@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/CubicCollectionViewLayout.svg?style=flat)](http://cocoapods.org/pods/CubicCollectionViewLayout)
 [![Platform](https://img.shields.io/cocoapods/p/CubicCollectionViewLayout.svg?style=flat)](http://cocoapods.org/pods/CubicCollectionViewLayout)
 
+## Example
+![alt tag](https://github.com/andrespch/CubicCollectionViewController/blob/master/Cubic_Controller.gif)
+
 ## Requirements
 Swift 3.0+
 ## Installation
