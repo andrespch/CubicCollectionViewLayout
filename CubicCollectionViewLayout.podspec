@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'CubicCollectionViewLayout'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of CubicCollectionViewLayout.'
+  s.summary          = 'A UICollectionViewLayout Subclass with cubic scrolling effect.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,15 +17,13 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'A UICollectionViewLayout Subclass with cubic scrolling effect.'
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/CubicCollectionViewLayout'
+  s.homepage         = 'https://github.com/andrespch/CubicCollectionViewLayout'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'andrespch' => 'andres@dubsmash.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/CubicCollectionViewLayout.git', :tag => s.version.to_s }
+  s.author           = { 'andrespch' => 'andres.portillos@gmail.com' }
+  s.source           = { :git => 'https://github.com/andrespch/CubicCollectionViewLayout.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
