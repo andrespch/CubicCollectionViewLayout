@@ -1,6 +1,0 @@
-use_frameworks!
-target 'CubicCollectionViewLayout_Tests' do
-  pod 'CubicCollectionViewLayout', :path => '../'
-  
-  
-end

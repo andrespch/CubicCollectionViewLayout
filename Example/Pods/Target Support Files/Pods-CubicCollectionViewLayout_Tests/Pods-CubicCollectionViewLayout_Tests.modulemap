@@ -1,6 +1,0 @@
-framework module Pods_CubicCollectionViewLayout_Tests {
-  umbrella header "Pods-CubicCollectionViewLayout_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
