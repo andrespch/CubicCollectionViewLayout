@@ -5,12 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/CubicCollectionViewLayout.svg?style=flat)](http://cocoapods.org/pods/CubicCollectionViewLayout)
 [![Platform](https://img.shields.io/cocoapods/p/CubicCollectionViewLayout.svg?style=flat)](http://cocoapods.org/pods/CubicCollectionViewLayout)
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
 ## Requirements
-
+Swift 3.0+
 ## Installation
 
 CubicCollectionViewLayout is available through [CocoaPods](http://cocoapods.org). To install
@@ -22,7 +18,7 @@ pod "CubicCollectionViewLayout"
 
 ## Author
 
-andrespch, andres@dubsmash.com
+andrespch, andres.portillos@gmail.com
 
 ## License
 
