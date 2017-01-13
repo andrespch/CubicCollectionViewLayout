@@ -1,0 +1,6 @@
+framework module CubicCollectionViewLayout {
+  umbrella header "CubicCollectionViewLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
